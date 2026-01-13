@@ -1,7 +1,7 @@
 # Class Scheduler Project
 
-This project is designed to help students plan their course schedule efficiently by filtering out conflicting course sections and providing valid course combinations. The project consists of several Python scripts that work together to load course data, process user preferences, and retrieve course sections from the CUHK SIS website.   
-The project havent be completed, the sis_client.py and parser.py are to be completed.   
+This project is designed to help students plan their course schedule efficiently by filtering out conflicting course sections and providing valid course combinations. The project consists of several Python scripts that work together to load course data, process user preferences, and retrieve course sections from the CUHKSZ SIS website.   
+The project haven‘t been completed, the sis_client.py and parser.py are to be completed.   
 
 ## Project Structure
 
