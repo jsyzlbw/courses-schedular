@@ -1,0 +1,10 @@
+{
+    "student_id": "123456",
+    "password": "securepassword",
+    "morning_eight_avoid": false,
+    "friday_avoid": false,
+    "courses": [
+        { "code": "CSC1001", "teacher": "Tom Anderson" },
+        { "code": "MAT1011", "teacher": "prof" }
+    ]
+}
